@@ -1,4 +1,4 @@
-//Escriba una función llamada “multiplicación” que reciba como argumento cuatro números reales distintos de cero y que devuelva su producto.
+//Escriba una funciÃ³n llamada â€œmultiplicaciÃ³nâ€ que reciba como argumento cuatro nÃºmeros reales distintos de cero y que devuelva su producto.
 #include<iostream>
 using namespace std;
 
